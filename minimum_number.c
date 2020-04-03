@@ -77,7 +77,7 @@ int main(void)
     printf("%d ", m[i]);
   printf("\n");
   // to determine how many moves until we get the integer k
-  //we sum the number throw and iteration from left to right
+  //we sum the number from left to right
   //if this sum in equal of higher than k than we print i the iterator
   printf("minimum mouves until %d  are:\n" , k);
   for(i= 0; i < n; i++)
